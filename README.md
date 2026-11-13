@@ -1,6 +1,6 @@
 # Crop Shift 🌾
 
-**Water-wise crop rotations for the Konya Closed Basin, Türkiye.**
+**Water-wise crop rotations for the Konya Closed Basin, Türkiye.** · **Live app: https://crop-shift.streamlit.app**
 NASA Space Apps Challenge 2026 · Challenge: *Field Shift: Adapting Farms with NASA Data* · Team Crop Shift (Ankara local event)
 
 Konya is Türkiye's grain store and its largest sugar beet producer, and most of its irrigation water is pumped from the ground. NASA GRACE data show the basin losing about 3.4 cm of groundwater storage per year (Khorrami et al. 2021), and AFAD had mapped 739 sinkholes in the basin by August 2026. Farmers are being asked to use less water but have no simple way to see what that costs them or which rotation to switch to.
